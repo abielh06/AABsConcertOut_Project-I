@@ -17,6 +17,6 @@ From answering those two questions and inputting your address, you will get a li
 # Developers
 * Abiel Hailemariam
 * Alex Santillan
-* Brynn 
+* Brynn Chapman
 
 
